@@ -1,0 +1,20 @@
+{
+  "name": "css-corgi-paper-dolls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgefosterII/CSS-Corgi-Paper-Dolls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgefosterII/CSS-Corgi-Paper-Dolls/issues"
+  },
+  "homepage": "https://github.com/georgefosterII/CSS-Corgi-Paper-Dolls#readme"
+}
