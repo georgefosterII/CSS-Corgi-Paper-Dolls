@@ -11,6 +11,32 @@
     left: 0;
 }
 
+.bandana {
+    position: relative;
+    left: -120px;
+    top: -50px;
+    z-index 2;
+}
+
+.absolute-corgi {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.best-dressed {
+    position:fixed;
+  
+}
+
+.pawprint {
+    position: fixed;
+    top: 50px;
+    left: 60px;
+}
+
+
+
 
 
    
